@@ -1,4 +1,6 @@
-<h2>  Hi, I'm Pablo and nowadays I'm learning Node.Js and React to develop WebSites! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>  Hi, I'm Pablo and nowadays I'm learning Node.Js and React to develop WebSites!</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p><em>Computer Engineer student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">IFSULDEMINAS</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
