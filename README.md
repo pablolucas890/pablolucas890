@@ -3,7 +3,13 @@
 
 <p>
 <em>Computer Engineer student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">IFSULDEMINAS</a>
-   <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="50"> 
+   <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30"> 
+</em>
+</p>
+
+<p>
+<em>Project Management <a href="http://aldeiaconsultoriajr.com//">Aldeia Consultoria Júnior</a>
+   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
 </em>
 </p>
 
