@@ -8,7 +8,7 @@
 </p>
 
 <p>
-<em>Project Management and Web Developer at<a href="http://aldeiaconsultoriajr.com//">Aldeia Consultoria Júnior</a>
+<em>Project Management and Web Developer at <a href="http://aldeiaconsultoriajr.com//">Aldeia Consultoria Júnior</a>
    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
 </em>
 </p>
