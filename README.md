@@ -1,4 +1,4 @@
-<h2>  Hi, I'm Pablo and nowadays I'm learning Node.Js and React to develop WebSites!</h2>
+<h2>  Hi, I'm Pablo and currently I'm learning Node.Js and React to develop WebSites!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p>
