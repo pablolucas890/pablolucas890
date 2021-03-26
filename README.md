@@ -34,8 +34,9 @@ const pabloProfile = {
             js: ["node", "express"],
             php: ["laravel", "php basic"],
         },
+        mobile: [ "React Native", "Android Studio" ],
         databases: "MySql",
-        otherTecnologies: ["LabView", "socket in C", "recaptcha google", "tinyeditor", "netBeans", "visual studio code"]
+        otherTecnologies: ["LabView", "socket in C", "recaptcha google", "tinyeditor", "netBeans", "visual studio code", "Android Studio"]
     },
     architecture: ["MVC Architecture", "Single page applications"],
     currentProject: "I Current manege two web project at Aldeia Consultoria Júnior. One project is a landing page for another EJ, and other project is a stock control. We utilize some basics techs like js, bootstrap, php, mysql, ..."
