@@ -51,8 +51,8 @@ const pabloProfile = {
     },
     architecture: ["MVC Architecture", "Single Page Applications"],
     currentProject: "I Current manege two web project at Aldeia Consultoria Júnior.
-                     One project is a landing page for another EJ, and other project is a stock control.
-                     We utilize some basics techs like js, bootstrap, php, mysql, ..."
+    One project is a landing page for another EJ, and other project is a stock control.
+    We utilize some basics techs like js, bootstrap, php, mysql, ..."
 };
 ```
 ---
