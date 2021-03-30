@@ -31,6 +31,7 @@ const pabloProfile = {
             html: "basic html"
         },
         backEnd: {
+            ts: ["node", "express"],
             js: ["node", "express"],
             php: ["laravel", "php basic"],
         },
