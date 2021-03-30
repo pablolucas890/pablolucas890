@@ -13,9 +13,9 @@
 </em>
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/PabloLucas4067?label=Follow&link=https://twitter.com/PabloLucas4067/) 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablolucas890/)](https://www.linkedin.com/in/pablolucas890/)
-![GitHub followers](https://img.shields.io/github/followers/pablolucas890?label=Follow&style=social&link=https://github.com/pablolucas890/)
+[![Twitter: Follow](https://img.shields.io/twitter/follow/PabloLucas4067?label=Follow&link=https://twitter.com/PabloLucas4067/)](https://twitter.com/PabloLucas4067/)
+[![Linkedin: pablolucas890](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablolucas890/)](https://www.linkedin.com/in/pablolucas890/)
+[![GitHub: followers](https://img.shields.io/github/followers/pablolucas890?label=Follow&style=social&link=https://github.com/pablolucas890/)](https://github.com/pablolucas890/)
 
 ### <img src="https://media.giphy.com/media/c7NKIZXSVZS0yhfaIG/giphy.gif" width="50"> A little more about me...  
 
