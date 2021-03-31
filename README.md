@@ -36,7 +36,7 @@ const pabloProfile = {
             php: ["laravel", "php basic"],
         },
         mobile: [ "React Native", "Android Studio" ],
-        databases: "MySql",
+        databases: [ "MySql", "PostgreSql", "phpmyadmin", "dbeaver", "heidisql"],
         otherTecnologies: [
             "LabView",
             "socket in C",
@@ -46,7 +46,9 @@ const pabloProfile = {
             "Android Studio",
             "Eslint",
             "Docker",
-            "Sketchup"
+            "Sketchup",
+            "ORM",
+            "XAMP"
             ]
     },
     architecture: ["MVC Architecture", "Single Page Applications"],
