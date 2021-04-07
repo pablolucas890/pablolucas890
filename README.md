@@ -1,5 +1,5 @@
 <h2>  Hi, I'm Pablo and currently I'm learning Node.Js and React to develop WebSites!</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 
 <p>
 <em>Computer Engineer student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">IFSULDEMINAS</a>
