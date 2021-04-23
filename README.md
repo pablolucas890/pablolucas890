@@ -48,9 +48,11 @@ const pabloProfile = {
             "Docker",
             "Sketchup",
             "ORM",
-            "XAMP"
+            "XAMP",
+            "socket.io"
             ]
     },
+    protocols: [ "Http", "WebSocket", "Socket in C", "TCP/IP"],
     architecture: ["MVC Architecture", "Single Page Applications"],
     currentProject: "I Current manege two web project at Aldeia Consultoria Júnior.
     One project is a landing page for another EJ, and other project is a stock control.
