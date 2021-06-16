@@ -49,6 +49,7 @@ const pabloProfile = {
             "Sketchup",
             "ORM",
             "XAMP",
+            "EXPO",
             "socket.io"
             ]
     },
