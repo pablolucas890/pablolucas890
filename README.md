@@ -62,9 +62,11 @@ const pabloProfile = {
 ```
 ---
 
-🔍 **These are the technologies that I'm using at the moment** 
+😍 **These are the technologies that I prefer to utilize** 
 
 ```text
+
+My Preferences
 
 📑 Languages: 
 JavaScript                      ███████░░░   70%
@@ -80,4 +82,7 @@ Linux (Ubuntu)                  ████████░░   80%
 Windows                         ██░░░░░░░░   20%
 
 ```
+<br/><hr/>
+🔍 **These are the technologies that I'm using at the moment** 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablolucas890&layout=compact)](https://github.com/pablolucas890)
