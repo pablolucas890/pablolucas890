@@ -105,7 +105,8 @@ const pabloProfile = {
 <em>...<a href="https://github.com/pablolucas890?tab=repositories">See More</a>
 </em>
 </p>
-<br>
+
+---
 
 😍 **These are the technologies that I prefer to utilize** 
 
