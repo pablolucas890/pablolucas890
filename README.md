@@ -27,6 +27,7 @@
 ### VEJA MEU PORTIFÓLIO DE PROJETOS! [Click Here](#-)<img src="https://media.giphy.com/media/w6q8QrjYAACIPLdYU6/giphy.gif" width="30"> 
 <br>
 <!--te-->
+
 ### <img src="https://media.giphy.com/media/c7NKIZXSVZS0yhfaIG/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
