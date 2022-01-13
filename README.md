@@ -1,4 +1,4 @@
-<h2>  Hi, I'm Pablo and currently I'm learning Node.Js and React to develop WebSites!</h2>
+<h2>  Hi, I'm Pablo and currently I'm learning Node.Js and React to develop WebSites and Apps!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 
 <p>
@@ -8,7 +8,13 @@
 </p>
 
 <p>
-<em>Project Management and Web Developer at <a href="http://aldeiaconsultoriajr.com//">Aldeia Consultoria Júnior</a>
+<em>
+
+</em>
+</p>
+
+<p>
+<em>Project Management and Web Developer at <a href="http://aldeiaconsultoriajr.com/">Aldeia Consultoria Júnior</a>
    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
 </em>
 </p>
@@ -17,6 +23,10 @@
 [![Linkedin: pablolucas890](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablolucas890/)](https://www.linkedin.com/in/pablolucas890/)
 [![GitHub: followers](https://img.shields.io/github/followers/pablolucas890?label=Follow&style=social&link=https://github.com/pablolucas890/)](https://github.com/pablolucas890/)
 
+<!--ts-->
+### VEJA MEU PORTIFÓLIO DE PROJETOS! [Click Here](#-)<img src="https://media.giphy.com/media/w6q8QrjYAACIPLdYU6/giphy.gif" width="30"> 
+<br>
+<!--te-->
 ### <img src="https://media.giphy.com/media/c7NKIZXSVZS0yhfaIG/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -61,6 +71,40 @@ const pabloProfile = {
 };
 ```
 ---
+### -
+📱 **See my Projects** 
+
+<br>
+<p>
+<em>Aplicativo Hamburgueria Bogiatto <a href="https://github.com/pablolucas890/Aplicativo_BogiattoHamburgueria">Click</a>
+</em>
+</p>
+<p>
+<em>Website Aldeia Consultoria Júnior <a href="http://aldeiaconsultoriajr.com/">Click</a>
+</em>
+</p>
+<p>
+<em>Next Level Week (NLW) Studies <a href="https://github.com/pablolucas890/nlw">Click</a>
+</em>
+</p>
+<p>
+<em>JavaScript (Udemy) Studies <a href="https://github.com/pablolucas890/javascript">Click</a>
+</em>
+</p>
+<p>
+<em>BootStrap (Udemy) Studies <a href="https://github.com/pablolucas890/bootstrap">Click</a>
+</em>
+</p>
+<p>
+<em>Node (RocketSeat - GoStack) Studies <a href="https://github.com/pablolucas890/nodejs">Click</a>
+</em>
+</p>
+<br>
+<p>
+<em>...<a href="https://github.com/pablolucas890?tab=repositories">See More</a>
+</em>
+</p>
+<br>
 
 😍 **These are the technologies that I prefer to utilize** 
 
