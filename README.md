@@ -100,19 +100,17 @@ const pabloProfile = {
 <em>Node (RocketSeat - GoStack) Studies <a href="https://github.com/pablolucas890/nodejs">Click</a>
 </em>
 </p>
-<br>
-<p>
-<em>...<a href="https://github.com/pablolucas890?tab=repositories">See More</a>
-</em>
-</p>
-<br>
 <p>
 <em>Site Tonel Brinquedos <a href="http://tonelbrinquedos.com.br/">Click</a>
 </em>
 </p>
-<br>
 <p>
 <em>Site WRX <a href="https://wrx.com.br/">Click</a>
+</em>
+</p>
+<br>
+<p>
+<em>...<a href="https://github.com/pablolucas890?tab=repositories">See More</a>
 </em>
 </p>
 ---
