@@ -14,7 +14,19 @@
 </p>
 
 <p>
-<em>Project Management and Web Developer at <a href="http://aldeiaconsultoriajr.com/">Aldeia Consultoria Júnior</a>
+<em>Old Project Management and Web Developer at <a href="http://aldeiaconsultoriajr.com/">Aldeia Consultoria Júnior</a>
+   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
+</em>
+</p>
+
+<p>
+<em>
+
+</em>
+</p>
+
+<p>
+<em>TI Suport on <a href="http://wrx.com.br/">WRX Soluções</a>
    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
 </em>
 </p>
