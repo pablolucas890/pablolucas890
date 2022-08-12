@@ -26,11 +26,22 @@
 </p>
 
 <p>
-<em>TI Suport on <a href="http://wrx.com.br/">WRX Soluções</a>
+<em>Old TI Suport on <a href="http://wrx.com.br/">WRX Soluções</a>
    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
 </em>
 </p>
 
+<p>
+<em>
+
+</em>
+</p>
+
+<p>
+<em>Full Stack Developer on AmoraDev
+   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
+</em>
+</p>
 [![Twitter: Follow](https://img.shields.io/twitter/follow/PabloLucas4067?label=Follow&link=https://twitter.com/PabloLucas4067/)](https://twitter.com/PabloLucas4067/)
 [![Linkedin: pablolucas890](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablolucas890/)](https://www.linkedin.com/in/pablolucas890/)
 [![GitHub: followers](https://img.shields.io/github/followers/pablolucas890?label=Follow&style=social&link=https://github.com/pablolucas890/)](https://github.com/pablolucas890/)
