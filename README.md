@@ -133,11 +133,11 @@ const pabloProfile = {
 </em>
 </p>
 <p>
-<em>Notes App on NextCloud<a href="https://github.com/pablolucas890/app_note_amoradev_nextcloud">Click</a>
+<em>Notes App on NextCloud <a href="https://github.com/pablolucas890/app_note_amoradev_nextcloud">Click</a>
 </em>
 </p>
 <p>
-<em>Web Generator Image<a href="https://github.com/pablolucas890/web-portal-generate-image">Click</a>
+<em>Web Generator Image <a href="https://github.com/pablolucas890/web-portal-generate-image">Click</a>
 </em>
 </p>
 <br>
