@@ -132,12 +132,10 @@ const pabloProfile = {
 <em>Site WRX <a href="https://wrx.com.br/">Click</a>
 </em>
 </p>
-<br>
 <p>
 <em>Notes App on NextCloud<a href="https://github.com/pablolucas890/app_note_amoradev_nextcloud">Click</a>
 </em>
 </p>
-<br>
 <p>
 <em>Web Generator Image<a href="https://github.com/pablolucas890/web-portal-generate-image">Click</a>
 </em>
