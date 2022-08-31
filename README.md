@@ -61,7 +61,7 @@ const pabloProfile = {
     askMeAbout: ["web dev", "tech", "gym", ""],
     technologies: {
         frontEnd: {
-            js: ["React", "javascript basic", "jquery"],
+            js: ["React", "javascript basic", "jquery", "Vue.js"],
             css: ["bootstrap", "css basic"],
             html: "basic html"
         },
@@ -85,7 +85,7 @@ const pabloProfile = {
             "ORM",
             "XAMP",
             "EXPO",
-            "socket.io"
+            "socket.io",
             ]
     },
     protocols: [ "Http", "WebSocket", "Socket in C", "TCP/IP"],
