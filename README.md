@@ -57,7 +57,7 @@
 ```javascript
 const pabloProfile = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "php", "C"],
+    code: ["Javascript", "Java", "php", "C", "Python"],
     askMeAbout: ["web dev", "tech", "gym", ""],
     technologies: {
         frontEnd: {
@@ -90,9 +90,7 @@ const pabloProfile = {
     },
     protocols: [ "Http", "WebSocket", "Socket in C", "TCP/IP"],
     architecture: ["MVC Architecture", "Single Page Applications"],
-    currentProject: "I Current manege two web project at Aldeia Consultoria Júnior.
-    One project is a landing page for another EJ, and other project is a stock control.
-    We utilize some basics techs like js, bootstrap, php, mysql, ..."
+    currentProject: "I Current working with IOT and Apps at AmoraDev ..."
 };
 ```
 ---
