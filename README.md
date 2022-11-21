@@ -151,18 +151,18 @@ const pabloProfile = {
 
 My Preferences
 
-📑 Languages: 
-JavaScript                      ███████░░░   70%
-PHP                             █░░░░░░░░░   10% 
-Html/CSS/bootstrap              █░░░░░░░░░   10% 
-Mysql                           █░░░░░░░░░   10% 
+📑 Languages:                       
+JavaScript                      ║███████   ║   70%
+PHP                             ║█         ║   10% 
+Html/CSS/bootstrap              ║█         ║   10% 
+Mysql                           ║█         ║   10% 
 
 🖊 Editors: 
-Visual Studio Code              ███████████  100% 
+Visual Studio Code              ║██████████║  100% 
 
 💻 Operating Systems: 
-Linux (Ubuntu)                  ████████░░   80%
-Windows                         ██░░░░░░░░   20%
+Linux (Ubuntu)                  ║████████  ║   90%
+Windows                         ║█         ║   10%
 
 ```
 <br/><hr/>
