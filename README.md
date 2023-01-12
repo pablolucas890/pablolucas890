@@ -88,7 +88,7 @@ const pabloProfile = {
             "socket.io",
             ]
     },
-    protocols: [ "Http", "WebSocket", "Socket in C", "TCP/IP"],
+    protocols: [ "Http", "WebSocket", "Socket in C", "TCP/IP", "MQTT"],
     architecture: ["MVC Architecture", "Single Page Applications"],
     currentProject: "I Current working with IOT and Apps at AmoraDev ..."
 };
@@ -131,11 +131,11 @@ const pabloProfile = {
 </em>
 </p>
 <p>
-<em>Dashboard Ippo for Companies<a href="https://github.com/pablolucas890/DashboardIppo">Click</a>
+<em>Dashboard Ippo for Companies <a href="https://github.com/pablolucas890/DashboardIppo">Click</a>
 </em>
 </p>
 <p>
-<em>Site Ippo<a href="https://ippo.com.br">Click</a>
+<em>Site Ippo <a href="https://ippo.com.br">Click</a>
 </em>
 </p>
 <p>
