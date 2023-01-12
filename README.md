@@ -38,7 +38,7 @@
 </p>
 
 <p>
-<em>Full Stack Developer on AmoraDev
+   <em>Full Stack Developer on <a href="https://www.linkedin.com/company/amoradev/">AmoraDev </a>
    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
 </em>
 </p>
