@@ -103,7 +103,7 @@ const pabloProfile = {
 </em>
 </p>
 <p>
-<em>Website Aldeia Consultoria Júnior <a href="http://aldeiaconsultoriajr.com/">Click</a>
+<em>Website Aldeia Consultoria Júnior <a href="https://github.com/pablolucas890/AldeiaNovoSite/">Click</a>
 </em>
 </p>
 <p>
