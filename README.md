@@ -123,7 +123,7 @@ const pabloProfile = {
 </em>
 </p>
 <p>
-<em>Site Tonel Brinquedos <a href="https://tonelbrinquedos.com.br/">Click</a>
+<em>Site Tonel Brinquedos <a href="https://tonelpresentes.com.br/">Click</a>
 </em>
 </p>
 <p>
