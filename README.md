@@ -1,4 +1,12 @@
-<h2>  Hi, I'm Pablo and currently I'm a intern system developer on <a href="https://www.linkedin.com/company/amoradev/">AmoraDev</a>! I work with IOT and apps for a automate company called <a href="https://www.controllar.com/">Controllar</a>, I work with support for OS to PCBs with raspberry and orangepi, integrate hardware comunications with MQTT protocols to send and receive RF / IR commands, map the node API on board with docker to use the react native app, use VPN communications to user connect with server with secure. Furthermore help with suport a startup called <a href="ippo.com.br">IPPO</a>. This startup works with health plans. Actually I work more in a info health dashboard with collaborators status for companys. It's integrate with WhatsApp and show to companys owners the colaborators fellings</h2>
+<h2>  Hi, I'm Pablo and currently I'm a intern system developer on <a href="https://www.linkedin.com/company/amoradev/">AmoraDev</a>!</h2>
+
+<h4>I work with IOT and apps for a automate company called <a href="https://www.controllar.com/">Controllar</a>.
+
+I work with support for OS to PCBs with raspberry and orangepi, integrate hardware comunications with MQTT protocols to send and receive RF / IR commands.
+
+Map the node API on board with docker to use the react native app, use VPN communications to user connect on server with secure. Furthermore help with suport a startup called <a href="ippo.com.br">IPPO</a>.
+
+This startup works with health plans. Actually I work more in a info health dashboard with collaborators status for companys. It's integrate with WhatsApp and show to companys owners the colaborators fellings</h4>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 
 <p>
