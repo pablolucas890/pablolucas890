@@ -131,6 +131,10 @@ const pabloProfile = {
 </em>
 </p>
 <p>
+<em>App Controllar Gestão <a href="https://apps.apple.com/br/app/controllar-gest%C3%A3o/id1527791776">Click</a>
+</em>
+</p>
+<p>
 <em>Site Tonel Brinquedos <a href="http://tonelpresentes.com.br/">Click</a>
 </em>
 </p>
