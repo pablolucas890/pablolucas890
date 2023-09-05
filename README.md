@@ -1,11 +1,13 @@
 <h2>  Hi, I'm Pablo and currently I'm a intern system developer on <a href="https://www.linkedin.com/company/amoradev/">AmoraDev</a>!</h2>
-
 <h4>I work with IOT and apps for a automate company called <a href="https://www.controllar.com/">Controllar</a>.
-
+<br>
+<br>
 I work with support for OS to PCBs with raspberry and orangepi, integrate hardware comunications with MQTT protocols to send and receive RF / IR commands.
-
+<br>
+<br>
 Map the node API on board with docker to use the react native app, use VPN communications to user connect on server with secure. Furthermore help with suport a startup called <a href="ippo.com.br">IPPO</a>.
-
+<br>
+<br>
 This startup works with health plans. Actually I work more in a info health dashboard with collaborators status for companys. It's integrate with WhatsApp and show to companys owners the colaborators fellings</h4>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 
@@ -18,6 +20,13 @@ This startup works with health plans. Actually I work more in a info health dash
 <p>
 <em>
 
+</em>
+</p>
+
+
+<p>
+<em>Developer at <a href="https://www.jepdevs.com.br/">JEPDevs</a>
+   <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> 
 </em>
 </p>
 
@@ -56,7 +65,7 @@ This startup works with health plans. Actually I work more in a info health dash
 [![GitHub: followers](https://img.shields.io/github/followers/pablolucas890?label=Follow&style=social&link=https://github.com/pablolucas890/)](https://github.com/pablolucas890/)
 
 <!--ts-->
-### VEJA MEU PORTIFÓLIO DE PROJETOS! [Click Here](#-)<img src="https://media.giphy.com/media/w6q8QrjYAACIPLdYU6/giphy.gif" width="30"> 
+### See my projects! [Click Here](#-)<img src="https://media.giphy.com/media/w6q8QrjYAACIPLdYU6/giphy.gif" width="30"> 
 <br>
 <!--te-->
 
