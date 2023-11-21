@@ -140,6 +140,22 @@ const pabloProfile = {
 </em>
 </p>
 <p>
+<em>App Posto Santa Teresa <a href="https://play.google.com/store/apps/details?id=com.amoradev.posto&pli=1">Click</a>
+</em>
+</p>
+<p>
+<em>Plataforma Mundo Recicladores <a href="https://www.app.mundorecicladores.com.br/">Click</a>
+</em>
+</p>
+<p>
+<em>Loja Café Gato Mourisco <a href="https://cafegatomourisco.com/loja">Click</a>
+</em>
+</p>
+<p>
+<em>App Controllar ML <a href="https://play.google.com/store/apps/details?id=com.appmobilecontroll">Click</a>
+</em>
+</p>
+<p>
 <em>App Controllar Gestão <a href="https://apps.apple.com/br/app/controllar-gest%C3%A3o/id1527791776">Click</a>
 </em>
 </p>
