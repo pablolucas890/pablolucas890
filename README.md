@@ -12,7 +12,7 @@ This startup works with health plans. Actually I work more in a info health dash
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 
 <p>
-<em>Computer Engineer student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">IFSULDEMINAS</a>
+<em>Computer Engineer bt <a href="https://portal.pcs.ifsuldeminas.edu.br/">IFSULDEMINAS</a>
    <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30"> 
 </em>
 </p>
