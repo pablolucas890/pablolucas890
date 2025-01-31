@@ -1,14 +1,20 @@
-<h2>  Hi, I'm Pablo and currently I'm a intern system developer on <a href="https://www.linkedin.com/company/amoradev/">AmoraDev</a>!</h2>
-<h4>I work with IOT and apps for a automate company called <a href="https://www.controllar.com/">Controllar</a>.
+<h2>  Hello, welcome 😄! My name is Pablo, and I'm a Full Stack Developer at <a href="https://www.linkedin.com/company/amoradev/">AmoraDev</a>!</h2>
+Currently, I am a full stack developer at AmoraDev (https://www.amoradev.com.br/) and I work with IoT and applications for a home automation company called Controllar (https://controllar.com/). We provide support for operating systems like Debian on SBC boards, such as Raspberry and OrangePi. We integrate hardware communications using MQTT protocols to send and receive RF/IR commands through market-available blasters and/or our own signal emission boards, all managed by programs in Python.<br>
 <br>
+I manage APIs in Node.js on the boards, using Docker to communicate with the application developed in React Native, in order to send and receive automation commands. We use VPN communications to securely connect multiple users to the server, allowing automation from anywhere in the world. We also customize market touch panels to install OpenSource firmwares such as Tasmota (https://tasmota.github.io/) and maintain APIs and configuration apps for these panels.
 <br>
-I work with support for OS to PCBs with raspberry and orangepi, integrate hardware comunications with MQTT protocols to send and receive RF / IR commands.
+Moreover, we maintain the operating system images we use on the SBCs through a system developed in Vue with Node.js. Using Debian base images configured by the DEBOS image generation project (https://github.com/go-debos/debos), company technicians can add .ovpn files and databases specific to each client, and generate bootable images with just one click. These images come with the company's systems through service configurations and Docker images, ensuring quick and easy automation.
 <br>
+Besides this automation company, we also work with IoT in automating beer taps for temperature control and also the switching on/off of refrigerators, using ESP as a microcontroller, and the app is also developed in React Native.
 <br>
-Map the node API on board with docker to use the react native app, use VPN communications to user connect on server with secure. Furthermore help with suport a startup called <a href="ippo.com.br">IPPO</a>.
+I also assist in technical support for a startup called IPPO (https://ippo.com.br/). This startup delivers weekly check-ins to patients of nutritionists in order to obtain health data through Artificial Intelligence and impact the decision-making of professionals. All this is integrated into WhatsApp, so that AI collects, analyzes, and returns unique feedback for each patient and also for the professional who attends them. The data is displayed on a dashboard where both the patient and the nutritionist have full access and management as weekly follow-up, input of personalized prompts for AI training, history, and risk analysis.
 <br>
+We develop apps for free for companies that follow our team's purpose, which is "Empowering people by developing impactful ideas," like the Full Moon Festival, which takes place annually and, through the collection of solid waste, encourages selective collection and returns prizes to users. We also developed the Mundo Recicladores system, which allows collectors and recyclers to sell invoices to large companies, in order to receive a percentage for this service and financially assist.
 <br>
-This startup works with health plans. Actually I work more in a info health dashboard with collaborators status for companys. It's integrate with WhatsApp and show to companys owners the colaborators fellings</h4>
+Still on the line of empowering people, during my graduation, I pioneered a project that developed data collection systems from chemical and physical experiments in the area of electron energy loss spectroscopy, using plates and components drastically cheaper than those currently on the market, allowing the expansion of research and knowledge aggregation for universities with limited financial resources.
+<br>
+I have registered with the INPI a data management system for university infirmaries and have worked in areas such as Virtual Reality, developing plugins to integrate with MetaQuest glasses.
+   
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="190">
 
 <p>
