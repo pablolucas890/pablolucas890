@@ -48,6 +48,26 @@ During my degree, I led a project on **data collection** from chemical and physi
 
 ---
 
+## 📱 Apps
+
+Apps I've published on the stores:
+
+| App | Store |
+|-----|-------|
+| **[Controllar ML](https://play.google.com/store/apps/details?id=com.appmobilecontrollarml)** | Google Play |
+| **[Controllar Gestão](https://play.google.com/store/apps/details?id=com.controllar.app)** | Google Play |
+| **[Controllar](https://play.google.com/store/apps/details?id=com.act.controllar)** | Google Play |
+| **[Controllar Mapa](https://play.google.com/store/apps/details?id=com.mapa.controllar)** | Google Play |
+| **[Controllar Painel Touch](https://play.google.com/store/apps/details?id=com.appnspanel)** | Google Play |
+| **[Maxiima APT Manager](https://play.google.com/store/apps/details?id=com.maxiima.appaptmanager)** | Google Play |
+| **[Smart Chopeiras](https://play.google.com/store/apps/details?id=com.amoradev.smartchopeiras)** | Google Play |
+| **[Controllar Gestão](https://apps.apple.com/br/app/controllar-gest%C3%A3o/id1527791776)** | App Store |
+| **[Controllar Prog](https://apps.apple.com/br/app/controllar-prog/id6747263308)** | App Store |
+| **[Mundo Recicladores](https://play.google.com/store/apps/details?id=br.com.mundorecicladores.flc22)** | Google Play |
+| **[Nutri de Bolso](https://play.google.com/store/apps/details?id=com.amoradev.nutribolso)** | Google Play |
+
+---
+
 ## 🛠 Tech Stack
 
 ```javascript
